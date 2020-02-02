@@ -1,6 +1,6 @@
 # LCOM
 
-The course had 4 assignments that were developed during laboratory classes and one final project, the assignments had as their purpose learning to work with I/O devices, both in interrupt and polling mode, and integrating them all of together in the final project. They were developed in *C* using the *LCF* framework provided in the course with *Minix 3* as the OS, allowing us to control and configurate the I/O devices from Minix.
+The course had 4 assignments that were developed during laboratory classes and one final project, the assignments had as their purpose learning to work with I/O devices, both in interrupt and polling mode, and integrating them all of together in the final project. They were developed in **C** using the **LCF** framework provided in the course with **Minix 3** as the OS, allowing us to control and configurate the I/O devices from Minix.
 
 [Additional information.](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436435 "LCOM")
 
