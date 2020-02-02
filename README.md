@@ -43,10 +43,13 @@ The course had 4 assignments that were developed during laboratory classes and o
 **Grade: N/A**
 
 Play as a space postman delivering packages throughout the galaxy completing missions by doing eulerian paths through the planets in each mission.
-<img src="Screenshots/Menu.png" width= "700" >
+<img src="proj/doc/screenshots/mainMenu.png" width= "250" >
+<img src="proj/doc/screenshots/gameplay.png" width= "250" >
+<img src="proj/doc/screenshots/missionAcomplished.png" width= "250" >
+
 Euler's way was a game developed as the final project for the class, integrating all 4 I/O devices and graphs into a puzzle game.
 
-[Doxygen documentation](http://example.com/ "Title").
+[Documentation](proj/doc/ "Documentation").
 
 
 
