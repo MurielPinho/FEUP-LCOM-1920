@@ -55,6 +55,7 @@ Euler's way was a game developed as the final project for the class, integrating
 ## Credits
 
 All code was developed by Muriel Pinho (up201700132@fe.up.pt) for LCOM 2019/20, using the LCF framework provided by the course.
+
 All assets were taken from [Itch.io](https://itch.io/game-assets "Itch.io").
 
 
