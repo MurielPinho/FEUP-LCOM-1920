@@ -8,21 +8,21 @@ The course had 4 assignments that were developed during laboratory classes and o
 ## Lab Assignments
 
 ### Lab 2 - PC's Timer
-**Grade: N/A**
+**Grade: 99/100**
 
 **Objectives:** 
 * Learn how to use the PC's timer
 * Understand the concept of interrupt, and learn how to use it in the context of the PC's timer
 
 ### Lab 3 -  PC's Keyboard
-**Grade: N/A**
+**Grade: 94/100**
 
 **Objectives:** 
 * Learn the operation of the PC's keyboard and how to use its low level interface
 * Get a better understanding of the interrupt mechanism and learn how to use it in the context of the PC's keyboard
 
 ### Lab 4 - The PS/2 Mouse 
-**Grade: N/A**
+**Grade: 100/100**
 
 **Objectives:** 
 
@@ -31,7 +31,7 @@ The course had 4 assignments that were developed during laboratory classes and o
 * Learn how to implement state machines in event-driven designs
 
 ### Lab 5 - The PC's Video Card in Graphics Mode 
-**Grade: N/A**
+**Grade: 92/100**
 
 **Objectives:** 
 
@@ -40,7 +40,7 @@ The course had 4 assignments that were developed during laboratory classes and o
 
 
 ## Euler's Way
-**Grade: N/A**
+**Grade: 17/20**
 
 Play as a space postman delivering packages throughout the galaxy completing missions by doing eulerian paths through the planets in each mission.
 
